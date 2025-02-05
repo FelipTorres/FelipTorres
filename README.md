@@ -1,8 +1,12 @@
 ### Olá! Me chamo Felipe Torres 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
+![FelipTorres's Stats](https://github-readme-stats.vercel.app/api?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![FelipTorres's Stats](https://github-readme-stats.vercel.app/api?username=FelipTorres&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![FelipTorres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![FelipTorres's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FelipTorres&theme=dark&hide_border=true)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
 
 ### Tecnologias que já utilizei.
 
