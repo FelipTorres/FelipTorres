@@ -16,4 +16,4 @@
     <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div><br>
 
-### Formado em Análise e Desenvolvimento de Sistemas, e atualmente trabalhando em uma startup atuando como desenvolvedor Full Stack Web.
+### Formado em Análise e Desenvolvimento de Sistemas, cursando Pôs Graduação em Desenvolvimento FullStack e atualmente trabalhando como desenvolvedor BackEnd.
