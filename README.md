@@ -1,12 +1,10 @@
-# Olá, sou Felipe Torres 👋
+# Olá, sou Felipe Torres 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
 
 Sou um apaixonado por tecnologia e desenvolvimento, com experiência sólida em backend e conhecimento em diversas linguagens e frameworks. 🚀
 
 ![FelipTorres's Stats](https://github-readme-stats.vercel.app/api?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![FelipTorres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
 
 ---
 
