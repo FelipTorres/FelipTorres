@@ -1,27 +1,36 @@
 # Olá, sou Felipe Torres 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
 
-Sou um apaixonado por tecnologia e desenvolvimento, com experiência sólida em backend e conhecimento em diversas linguagens e frameworks. 🚀
+## Sobre mim
 
-![FelipTorres's Stats](https://github-readme-stats.vercel.app/api?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![FelipTorres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
-### Tecnologias que já utilizei 💻
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div><br>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Cursando Pôs Graduação de Desenvolvimento FullStack na Puc Minas.
+- 💼 Trabalhando como Desenvolvedor BackEnd na Emcash.
 
 ---
 
-### 📚 Formação
+## Minhas Skills 💻
 
-- 🎓 **Análise e Desenvolvimento de Sistemas**  
-- 🎓 **Pós-Graduação em Desenvolvimento FullStack** (Em andamento)
+**Aplicações e dados**
+
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Linguagens**
+
+[![FelipTorres](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
