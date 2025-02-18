@@ -33,5 +33,4 @@
 
 **Linguagens**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&layout=pie&theme=dark&show_icons=true)]
-[![FelipTorres](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&theme=dark&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&layout=pie&theme=dark&show_icons=true)
