@@ -14,8 +14,8 @@
 
 ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=007396)
 ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel&logoColor=007396)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/Spring-Boot-333333?style=flat&logo=spring_boot&logoColor=007396)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=007396)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node JS](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
