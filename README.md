@@ -1,4 +1,4 @@
-# Olá, sou Felipe Torres 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
+# Bem Vindo, sou Felipe Torres 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
 
 ## Sobre mim
 
