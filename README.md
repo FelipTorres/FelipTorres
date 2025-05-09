@@ -22,18 +22,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=007396)
 
-**Utilidades**
-
-![PHP Storm](https://img.shields.io/badge/-PHPStorm-333333?style=for-the-badge&logo=phpstorm)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+
+**Utilidades**
+
+![PHP Storm](https://img.shields.io/badge/-PHPStorm-333333?style=for-the-badge&logo=phpstorm&logoColor=007396)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij&logoColor=007396)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=007396)
 
 **Linguagens**
 
