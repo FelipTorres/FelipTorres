@@ -1,40 +1,69 @@
-# Bem Vindo, sou Felipe Torres 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-b6b54b207/)
+<h1 align="center">Olá! 👋 Eu sou o Felipe Torres</h1>
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando Pôs Graduação de Desenvolvimento FullStack na Puc Minas.
-- 💼 Trabalhando como Desenvolvedor BackEnd na Emcash.
+<p align="center">
+  <strong>Desenvolvedor Back-End • PHP | Laravel | JavaScript</strong><br>
+  <em>Focado em soluções web dinâmicas, escaláveis e de alta qualidade</em>
+</p>
 
 ---
 
-## Minhas Skills 💻
+### 👨‍💻 Sobre mim
 
-**Aplicações e dados**
+Sou um desenvolvedor web Full Stack com experiência na criação de soluções web modernas e eficientes.
+Atuo principalmente no back-end com Laravel, mas também tenho domínio no front-end com JavaScript e frameworks como jQuery e Bootstrap.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=007396)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=007396)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=007396)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=007396)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=007396)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=007396)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=007396)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=007396)
+🎓 Formação:
 
-**DevOps**
+- Análise e Desenvolvimento de Sistemas pela Faculdade Cotemig
+- Pós-graduação em Desenvolvimento Full Stack pela PUC Minas (em andamento)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=007396)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=007396)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket&logoColor=007396)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=007396)
+🔧 Stack: PHP • Laravel • JavaScript • Node.js • Java • Spring Boot • GO • MySQL • Redis
 
-**Utilidades**
+📈 Gosto de contribuir com soluções escaláveis, testes automatizados e boas práticas de versionamento.
 
-![PHP Storm](https://img.shields.io/badge/-PHPStorm-333333?style=for-the-badge&logo=phpstorm&logoColor=007396)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij&logoColor=007396)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=007396)
+---
 
-**Linguagens**
+### 🧰 Tecnologias & Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&layout=pie&theme=dark&show_icons=true)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![GO](https://img.shields.io/badge/GO-18b7dd?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🧸 [API Toys Store](https://github.com/FelipTorres/api-toys-store)  
+  API RESTful para gerenciamento de estoque e vendas de brinquedos. Construída com Laravel e MySQL.
+
+- 🚗 [Garage Control](https://github.com/FelipTorres/Garage-Control)  
+  Aplicação para controle de entrada e saída de veículos. Backend em JS com Node.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipTorres&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&layout=compact&theme=radical" height="160"/>
+</div>
+
+### 📈 Contribuições Recentes
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipTorres&bg_color=0d1117&color=40E0D0&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: [felipetorresbh15@gmail.com](mailto:felipetorresbh15@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/felipe-torres-dev](https://www.linkedin.com/in/felipe-torres-dev/)
+
+---
