@@ -1,8 +1,6 @@
 <h1 align="center">Olá! 👋 Eu sou o Felipe Torres</h1>
-
 <p align="center">
   <strong>Desenvolvedor Back-End • PHP | Laravel | JavaScript</strong><br>
-  <em>Focado em soluções web dinâmicas, escaláveis e de alta qualidade</em>
 </p>
 
 ---
