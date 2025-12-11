@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Eu sou o Felipe Torres</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-End • PHP | Laravel | JavaScript</strong><br>
+  <strong>Desenvolvedor Back-End • PHP | Laravel | JavaScript | GO</strong><br>
 </p>
 
 ---
@@ -45,13 +45,6 @@ Atuo principalmente no back-end com Laravel, mas também tenho domínio no front
   Aplicação para controle de entrada e saída de veículos. Backend em JS com Node.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipTorres&show_icons=true&theme=radical&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipTorres&layout=compact&theme=radical" height="160"/>
-</div>
 
 ### 📈 Contribuições Recentes
 
