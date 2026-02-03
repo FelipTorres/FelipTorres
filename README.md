@@ -13,7 +13,7 @@ Atuo principalmente no back-end com Laravel, mas também tenho domínio no front
 🎓 Formação:
 
 - Análise e Desenvolvimento de Sistemas pela Faculdade Cotemig
-- Pós-graduação em Desenvolvimento Full Stack pela PUC Minas (em andamento)
+- Pós-graduação em Desenvolvimento Full Stack pela PUC Minas
 
 🔧 Stack: PHP • Laravel • JavaScript • Node.js • Java • Spring Boot • GO • MySQL • Redis
 
